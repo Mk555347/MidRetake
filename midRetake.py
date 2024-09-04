@@ -1,1 +1,1 @@
-print("Hello DIP02")
+print("Once again")
